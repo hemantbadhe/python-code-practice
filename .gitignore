@@ -1,0 +1,5 @@
+rto/*.pyc
+rto_app/migrations/*
+rto_app/*.pyc
+
+.idea/
